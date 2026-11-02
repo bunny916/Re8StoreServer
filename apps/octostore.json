@@ -1,9 +1,9 @@
-﻿{
+{
     "description":  "Community Windows 8 Store client preserving modern apps with offline package catalog.",
     "ratingsCount":  "15,000",
     "mainStars":  5,
     "category":  "Store Revival",
-    "imgUrl":  "https://ibrahim-re8store.github.io/Re8StoreServer/assets/icons/OctoStore_Revival.png",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer/assets/icons/OctoStore_Revival.png",
     "app_identity":  {
                          "publisher":  "Octo Limited",
                          "description":  "Community Windows 8 Store client preserving modern apps with offline package catalog.",
@@ -11,7 +11,7 @@
                      },
     "deployment":  {
                        "filesize":  "1.84 MB",
-                       "imgUrl":  "https://ibrahim-re8store.github.io/Re8StoreServer/assets/icons/OctoStore_Revival.png",
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer/assets/icons/OctoStore_Revival.png",
                        "downloadUri":  "https://archive.org/download/Win8AppxArchive/OctoStore_Revival.appx"
                    },
     "downloadUri":  "https://archive.org/download/Win8AppxArchive/OctoStore_Revival.appx",

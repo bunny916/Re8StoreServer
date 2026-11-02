@@ -1,9 +1,9 @@
-﻿{
+{
     "description":  "Guess over 1,000 global company brand logos with hints, levels, and achievements.",
     "ratingsCount":  "52,000",
     "mainStars":  5,
     "category":  "Games",
-    "imgUrl":  "https://ibrahim-re8store.github.io/Re8StoreServer/assets/icons/logo_quiz.png",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer/assets/icons/logo_quiz.png",
     "app_identity":  {
                          "publisher":  "Bubble Quiz Games",
                          "description":  "Guess over 1,000 global company brand logos with hints, levels, and achievements.",
@@ -11,9 +11,9 @@
                      },
     "deployment":  {
                        "filesize":  "36.23 MB",
-                       "imgUrl":  "https://ibrahim-re8store.github.io/Re8StoreServer/assets/icons/logo_quiz.png",
-                       "downloadUri":  "https://ibrahim-re8store.github.io/Re8StoreServer/apps/store_ext_12617bubblequizgames.LogoQuizGame_2015.820.1155.3292_neutral_~_ay53zzg3tew8a.appxbundle"
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer/assets/icons/logo_quiz.png",
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer/apps/store_ext_12617bubblequizgames.LogoQuizGame_2015.820.1155.3292_neutral_~_ay53zzg3tew8a.appxbundle"
                    },
-    "downloadUri":  "https://ibrahim-re8store.github.io/Re8StoreServer/apps/store_ext_12617bubblequizgames.LogoQuizGame_2015.820.1155.3292_neutral_~_ay53zzg3tew8a.appxbundle",
+    "downloadUri":  "https://bunny916.github.io/Re8StoreServer/apps/store_ext_12617bubblequizgames.LogoQuizGame_2015.820.1155.3292_neutral_~_ay53zzg3tew8a.appxbundle",
     "displayname":  "Logo Quiz Game"
 }

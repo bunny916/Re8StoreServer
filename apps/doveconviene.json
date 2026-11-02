@@ -1,9 +1,9 @@
-﻿{
+{
     "description":  "Browse digital store circulars, special discounts, and neighborhood retail deals in one touch.",
     "ratingsCount":  "23,000",
     "mainStars":  4,
     "category":  "Shopping",
-    "imgUrl":  "https://ibrahim-re8store.github.io/Re8StoreServer/assets/icons/doveconviene.png",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer/assets/icons/doveconviene.png",
     "app_identity":  {
                          "publisher":  "DoveConviene",
                          "description":  "Browse digital store circulars, special discounts, and neighborhood retail deals in one touch.",
@@ -11,9 +11,9 @@
                      },
     "deployment":  {
                        "filesize":  "6.79 MB",
-                       "imgUrl":  "https://ibrahim-re8store.github.io/Re8StoreServer/assets/icons/doveconviene.png",
-                       "downloadUri":  "https://ibrahim-re8store.github.io/Re8StoreServer/apps/store_ext_DoveConviene.DoveConviene_2016.1108.2135.0_neutral_~_bqe57f3s2ra82.AppxBundle"
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer/assets/icons/doveconviene.png",
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer/apps/store_ext_DoveConviene.DoveConviene_2016.1108.2135.0_neutral_~_bqe57f3s2ra82.AppxBundle"
                    },
-    "downloadUri":  "https://ibrahim-re8store.github.io/Re8StoreServer/apps/store_ext_DoveConviene.DoveConviene_2016.1108.2135.0_neutral_~_bqe57f3s2ra82.AppxBundle",
+    "downloadUri":  "https://bunny916.github.io/Re8StoreServer/apps/store_ext_DoveConviene.DoveConviene_2016.1108.2135.0_neutral_~_bqe57f3s2ra82.AppxBundle",
     "displayname":  "DoveConviene Deals"
 }

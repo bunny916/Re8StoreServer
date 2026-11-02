@@ -1,9 +1,9 @@
-﻿{
+{
     "description":  "Exciting 3D Wild West horse riding simulation featuring obstacle courses, stunts, and frontier trails.",
     "ratingsCount":  "17,500",
     "mainStars":  4,
     "category":  "Games",
-    "imgUrl":  "https://ibrahim-re8store.github.io/Re8StoreServer/assets/icons/cowboy_horse_riding.png",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer/assets/icons/cowboy_horse_riding.png",
     "app_identity":  {
                          "publisher":  "GameStone Studio",
                          "description":  "Exciting 3D Wild West horse riding simulation featuring obstacle courses, stunts, and frontier trails.",
@@ -11,9 +11,9 @@
                      },
     "deployment":  {
                        "filesize":  "96.04 MB",
-                       "imgUrl":  "https://ibrahim-re8store.github.io/Re8StoreServer/assets/icons/cowboy_horse_riding.png",
-                       "downloadUri":  "https://ibrahim-re8store.github.io/Re8StoreServer/apps/store_ext_12705GameStone.CowboyHorseRidingSimulation_2016.518.1049.2295_neutral_~_xx7a0xg4kw6vg.appxbundle"
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer/assets/icons/cowboy_horse_riding.png",
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer/apps/store_ext_12705GameStone.CowboyHorseRidingSimulation_2016.518.1049.2295_neutral_~_xx7a0xg4kw6vg.appxbundle"
                    },
-    "downloadUri":  "https://ibrahim-re8store.github.io/Re8StoreServer/apps/store_ext_12705GameStone.CowboyHorseRidingSimulation_2016.518.1049.2295_neutral_~_xx7a0xg4kw6vg.appxbundle",
+    "downloadUri":  "https://bunny916.github.io/Re8StoreServer/apps/store_ext_12705GameStone.CowboyHorseRidingSimulation_2016.518.1049.2295_neutral_~_xx7a0xg4kw6vg.appxbundle",
     "displayname":  "Cowboy Horse Riding"
 }

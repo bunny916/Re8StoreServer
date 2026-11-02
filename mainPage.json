@@ -1,4 +1,4 @@
-﻿{
+{
     "rework_core_system":  {
                                "gateway_control":  {
                                                        "version2.2u1":  true
@@ -67,27 +67,27 @@
                                                                                           {
                                                                                               "label":  "game_studio_tycoon_3",
                                                                                               "description":  "Build your game development empire! Hire developers, create hit games, and conquer the industry.",
-                                                                                              "image_url":  "https://ibrahim-re8store.github.io/Re8StoreServer/assets/icons/game_studio_tycoon_3.png"
+                                                                                              "image_url":  "https://bunny916.github.io/Re8StoreServer/assets/icons/game_studio_tycoon_3.png"
                                                                                           },
                                                                                           {
                                                                                               "label":  "skype",
                                                                                               "description":  "Official Windows 8 Skype modern app featuring free video calling, voice calls, instant messaging, and Snap View.",
-                                                                                              "image_url":  "https://ibrahim-re8store.github.io/Re8StoreServer/assets/icons/skype.png"
+                                                                                              "image_url":  "https://bunny916.github.io/Re8StoreServer/assets/icons/skype.png"
                                                                                           },
                                                                                           {
                                                                                               "label":  "mahjong",
                                                                                               "description":  "Match beautiful tiles with relaxing Asian artwork, atmospheric sounds, multiple themes, and daily challenges.",
-                                                                                              "image_url":  "https://ibrahim-re8store.github.io/Re8StoreServer/assets/icons/mahjong.png"
+                                                                                              "image_url":  "https://bunny916.github.io/Re8StoreServer/assets/icons/mahjong.png"
                                                                                           },
                                                                                           {
                                                                                               "label":  "solitaire_collection",
                                                                                               "description":  "The world\u0027s #1 card game suite featuring Klondike, Spider, FreeCell, Pyramid, and TriPeaks.",
-                                                                                              "image_url":  "https://ibrahim-re8store.github.io/Re8StoreServer/assets/icons/solitaire_collection.png"
+                                                                                              "image_url":  "https://bunny916.github.io/Re8StoreServer/assets/icons/solitaire_collection.png"
                                                                                           },
                                                                                           {
                                                                                               "label":  "disney_solitaire",
                                                                                               "description":  "Play through magical Peter Pan and The Jungle Book animated scenes in this charming Disney card adventure.",
-                                                                                              "image_url":  "https://ibrahim-re8store.github.io/Re8StoreServer/assets/icons/disney_solitaire.png"
+                                                                                              "image_url":  "https://bunny916.github.io/Re8StoreServer/assets/icons/disney_solitaire.png"
                                                                                           }
                                                                                       ]
                                                                       },
@@ -96,27 +96,27 @@
                                                                                                {
                                                                                                    "label":  "game_studio_tycoon_3",
                                                                                                    "description":  "Build your game development empire! Hire developers, create hit games, and conquer the industry.",
-                                                                                                   "image_url":  "https://ibrahim-re8store.github.io/Re8StoreServer/assets/icons/game_studio_tycoon_3.png"
+                                                                                                   "image_url":  "https://bunny916.github.io/Re8StoreServer/assets/icons/game_studio_tycoon_3.png"
                                                                                                },
                                                                                                {
                                                                                                    "label":  "skype",
                                                                                                    "description":  "Official Windows 8 Skype modern app featuring free video calling, voice calls, instant messaging, and Snap View.",
-                                                                                                   "image_url":  "https://ibrahim-re8store.github.io/Re8StoreServer/assets/icons/skype.png"
+                                                                                                   "image_url":  "https://bunny916.github.io/Re8StoreServer/assets/icons/skype.png"
                                                                                                },
                                                                                                {
                                                                                                    "label":  "mahjong",
                                                                                                    "description":  "Match beautiful tiles with relaxing Asian artwork, atmospheric sounds, multiple themes, and daily challenges.",
-                                                                                                   "image_url":  "https://ibrahim-re8store.github.io/Re8StoreServer/assets/icons/mahjong.png"
+                                                                                                   "image_url":  "https://bunny916.github.io/Re8StoreServer/assets/icons/mahjong.png"
                                                                                                },
                                                                                                {
                                                                                                    "label":  "solitaire_collection",
                                                                                                    "description":  "The world\u0027s #1 card game suite featuring Klondike, Spider, FreeCell, Pyramid, and TriPeaks.",
-                                                                                                   "image_url":  "https://ibrahim-re8store.github.io/Re8StoreServer/assets/icons/solitaire_collection.png"
+                                                                                                   "image_url":  "https://bunny916.github.io/Re8StoreServer/assets/icons/solitaire_collection.png"
                                                                                                },
                                                                                                {
                                                                                                    "label":  "disney_solitaire",
                                                                                                    "description":  "Play through magical Peter Pan and The Jungle Book animated scenes in this charming Disney card adventure.",
-                                                                                                   "image_url":  "https://ibrahim-re8store.github.io/Re8StoreServer/assets/icons/disney_solitaire.png"
+                                                                                                   "image_url":  "https://bunny916.github.io/Re8StoreServer/assets/icons/disney_solitaire.png"
                                                                                                }
                                                                                            ]
                                                                            }

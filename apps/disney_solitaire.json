@@ -1,9 +1,9 @@
-﻿{
+{
     "description":  "Play through magical Peter Pan and The Jungle Book animated scenes in this charming Disney card adventure.",
     "ratingsCount":  "67,000",
     "mainStars":  5,
     "category":  "Games",
-    "imgUrl":  "https://ibrahim-re8store.github.io/Re8StoreServer/assets/icons/disney_solitaire.png",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer/assets/icons/disney_solitaire.png",
     "app_identity":  {
                          "publisher":  "Disney",
                          "description":  "Play through magical Peter Pan and The Jungle Book animated scenes in this charming Disney card adventure.",
@@ -11,9 +11,9 @@
                      },
     "deployment":  {
                        "filesize":  "556.03 MB",
-                       "imgUrl":  "https://ibrahim-re8store.github.io/Re8StoreServer/assets/icons/disney_solitaire.png",
-                       "downloadUri":  "https://ibrahim-re8store.github.io/Re8StoreServer/apps/store_ext_Disney.DisneyClassicSolitaire_1.0.0.43_arm__6rarf9sa4v8jt.Appx"
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer/assets/icons/disney_solitaire.png",
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer/apps/store_ext_Disney.DisneyClassicSolitaire_1.0.0.43_arm__6rarf9sa4v8jt.Appx"
                    },
-    "downloadUri":  "https://ibrahim-re8store.github.io/Re8StoreServer/apps/store_ext_Disney.DisneyClassicSolitaire_1.0.0.43_arm__6rarf9sa4v8jt.Appx",
+    "downloadUri":  "https://bunny916.github.io/Re8StoreServer/apps/store_ext_Disney.DisneyClassicSolitaire_1.0.0.43_arm__6rarf9sa4v8jt.Appx",
     "displayname":  "Disney Classic Solitaire"
 }

@@ -1,9 +1,9 @@
-﻿{
+{
     "description":  "Required media DRM runtime for high-definition streaming on Windows 8.1.",
     "ratingsCount":  "500,000",
     "mainStars":  5,
     "category":  "Framework \u0026 Dependencies",
-    "imgUrl":  "https://ibrahim-re8store.github.io/Re8StoreServer/assets/icons/playready.png",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer/assets/icons/playready.png",
     "app_identity":  {
                          "publisher":  "Microsoft Corporation",
                          "description":  "Required media DRM runtime for high-definition streaming on Windows 8.1.",
@@ -11,9 +11,9 @@
                      },
     "deployment":  {
                        "filesize":  "4.44 MB",
-                       "imgUrl":  "https://ibrahim-re8store.github.io/Re8StoreServer/assets/icons/playready.png",
-                       "downloadUri":  "https://ibrahim-re8store.github.io/Re8StoreServer/apps/store_ext_Microsoft.Media.PlayReadyClient.2_2.11.2154.0_x64__8wekyb3d8bbwe.Appx"
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer/assets/icons/playready.png",
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer/apps/store_ext_Microsoft.Media.PlayReadyClient.2_2.11.2154.0_x64__8wekyb3d8bbwe.Appx"
                    },
-    "downloadUri":  "https://ibrahim-re8store.github.io/Re8StoreServer/apps/store_ext_Microsoft.Media.PlayReadyClient.2_2.11.2154.0_x64__8wekyb3d8bbwe.Appx",
+    "downloadUri":  "https://bunny916.github.io/Re8StoreServer/apps/store_ext_Microsoft.Media.PlayReadyClient.2_2.11.2154.0_x64__8wekyb3d8bbwe.Appx",
     "displayname":  "Microsoft PlayReady Client"
 }

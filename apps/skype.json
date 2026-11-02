@@ -1,9 +1,9 @@
-﻿{
+{
     "description":  "Official Windows 8 Skype modern app featuring free video calling, voice calls, instant messaging, and Snap View.",
     "ratingsCount":  "450,000",
     "mainStars":  5,
     "category":  "Social \u0026 Communication",
-    "imgUrl":  "https://ibrahim-re8store.github.io/Re8StoreServer/assets/icons/skype.png",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer/assets/icons/skype.png",
     "app_identity":  {
                          "publisher":  "Skype Technologies",
                          "description":  "Official Windows 8 Skype modern app featuring free video calling, voice calls, instant messaging, and Snap View.",
@@ -11,9 +11,9 @@
                      },
     "deployment":  {
                        "filesize":  "17.55 MB",
-                       "imgUrl":  "https://ibrahim-re8store.github.io/Re8StoreServer/assets/icons/skype.png",
-                       "downloadUri":  "https://ibrahim-re8store.github.io/Re8StoreServer/apps/8.0 Microsoft.SkypeApp_kzf8qxf38zg5c.zip"
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer/assets/icons/skype.png",
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer/apps/8.0 Microsoft.SkypeApp_kzf8qxf38zg5c.zip"
                    },
-    "downloadUri":  "https://ibrahim-re8store.github.io/Re8StoreServer/apps/8.0 Microsoft.SkypeApp_kzf8qxf38zg5c.zip",
+    "downloadUri":  "https://bunny916.github.io/Re8StoreServer/apps/8.0 Microsoft.SkypeApp_kzf8qxf38zg5c.zip",
     "displayname":  "Skype for Windows 8"
 }
