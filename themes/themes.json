@@ -1,0 +1,11 @@
+﻿{
+    "themes":  [
+                   {
+                       "bg":  "#008a00",
+                       "name":  "Classic Green",
+                       "id":  "default",
+                       "text":  "#ffffff",
+                       "font":  "Segoe UI"
+                   }
+               ]
+}
